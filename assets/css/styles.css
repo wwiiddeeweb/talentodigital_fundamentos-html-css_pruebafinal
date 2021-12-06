@@ -1,0 +1,40 @@
+body * {
+  font-family: 'Readex Pro', sans-serif;
+  font-weight: 200;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+.logo-h {
+  height: 2.4em;
+}
+
+.about-heading {
+  background-color: #16A3B8;
+  text-align: center;
+}
+
+.about-heading i {
+  font-size: 2em;
+}
+
+.about p {
+  text-align: justify;
+}
+
+.borde-h2 {
+  border-bottom: 1px solid #16A3B8;
+}
+
+.bg-brand-card {
+  background-color: #16A3B8;
+  color: #fff;
+}
+
+.card-h {
+  height: 22em;
+  overflow: scroll;
+}
