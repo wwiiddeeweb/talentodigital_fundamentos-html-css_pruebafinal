@@ -42,3 +42,16 @@ body {
 .iconos-rrss i {
   font-size: 2.5em;
 }
+
+.sticky-fix {
+  top: -74px;
+}
+
+.card-img-overflow {
+  overflow: hidden;
+}
+
+
+.card-img-overflow img {
+  height: 100%;
+}
