@@ -60,3 +60,7 @@ body {
   background-color: #000 !important;
   transition: background-color 200ms linear;
 }
+
+.nav-link {
+  text-shadow: 1px 1px 4px #000;
+}
