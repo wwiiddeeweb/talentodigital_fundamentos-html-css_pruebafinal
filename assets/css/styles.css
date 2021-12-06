@@ -66,3 +66,12 @@ body {
   text-shadow: 1px 1px 4px #000;
 }
 
+#nav-about {
+  display: inline;
+}
+
+@media only screen and (max-width: 576px) {
+  #nav-about {
+    display: none;
+  }  
+}
