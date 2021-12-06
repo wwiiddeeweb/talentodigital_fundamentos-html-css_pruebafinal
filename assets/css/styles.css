@@ -55,3 +55,8 @@ body {
 .card-img-overflow img {
   height: 100%;
 }
+
+.fixed-top.scrolled {
+  background-color: #000 !important;
+  transition: background-color 200ms linear;
+}
