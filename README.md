@@ -5,7 +5,9 @@
 
 ### Tecnologías:
 - HTML5
-- CSS3
+- CSS3: Sistema personalizado de clases y media queries.
+- Bootstrap 4: Trabajo sobre el sistema de grids, flexbox, containers, cards, etc.
 - Integración de complementos externos (TypeForm)
+
 
 ![screenshot](https://i.ibb.co/grsbcgq/Viajes-Chile.jpg "Screenshot")
