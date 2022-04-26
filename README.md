@@ -3,4 +3,9 @@
 ### Realizado por Sebastián Kravetz.
 ---
 
+### Tecnologías:
+- HTML5
+- CSS3
+- Integración de complementos externos (TypeForm)
+
 ![screenshot](https://i.ibb.co/grsbcgq/Viajes-Chile.jpg "Screenshot")
